@@ -38,4 +38,7 @@ body {
 
 body.dark-mode {
     background: #121212;
+body {
+    background-color: #ae1010;
+    font-family: Arial, sans-serif;
 }
